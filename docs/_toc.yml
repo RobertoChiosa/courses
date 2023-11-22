@@ -3,6 +3,8 @@
 
 format: jb-book
 root: markdown/intro
+options: # The options key will be applied to all chapters, but not sub-sections
+  numbered: True
 chapters:
   - file: markdown/energy_data
   - file: markdown/energy_data_exploration
