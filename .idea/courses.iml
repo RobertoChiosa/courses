@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/etc/jupyter/jupyter_notebook_config.d" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/include" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/lib/python3.8/site-packages/IPython/sphinxext" />

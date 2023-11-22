@@ -4,10 +4,12 @@
 format: jb-book
 root: markdown/intro
 chapters:
-  - file: markdown/lab1
+  - file: markdown/energy_data
+  - file: markdown/energy_data_exploration
     sections:
-      - file: notebooks/lab1-1-time-series-exploration-sol
-      - file: notebooks/lab1-2-clustering-sol
+      - file: notebooks/energy_data_exploration_line_plot
+      - file: notebooks/energy_data_exploration_distributions
+      - file: notebooks/energy_data_exploration_heatmaps
 
 
 
